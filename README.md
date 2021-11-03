@@ -1,4 +1,5 @@
 # ofdmlib
+VERY MUCH WORK IN PROGRESS!
 Efficient, object-oriented OFDM library designed and implemented to work in real-time.
 
   <p align="center">
